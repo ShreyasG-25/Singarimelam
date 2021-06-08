@@ -1,0 +1,74 @@
+#main-wrapper{
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid #2c3e50;
+}
+.male{
+	width:100px;
+	text-align:center;
+	border-radius:50px; 
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+.inputvalues{
+	width:100%;
+	margin:0 auto;
+	padding:5px;
+}
+#login_btn{
+	background-color:#2ecc71;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+}
+#register_btn{
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+#signup_btn{
+	background-color:#2ecc71;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+}
+#accept{
+	background-color:#2ecc71;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+}
+#back_btn{
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:20px;
+}
